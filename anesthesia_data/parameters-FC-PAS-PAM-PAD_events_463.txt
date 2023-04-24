@@ -1,0 +1,44 @@
+Time,Event
+0,Mise en place du patient
+30,Monitorage FC
+60,Monitorage PAM
+90,Monitorage SPO2
+120,Monitorage BIS
+150,pose VVP (cathlon)
+390,Bair hugger
+450,CEFAZOLINE_bolus
+540,pré-oxygénation
+780,SUFENTANIL_induction
+810,PROPOFOL_induction
+840,ATRACURIUM_induction
+870,Occlusion oculaire
+1110,intubation
+1200,SEVOFLURANE_continu
+1230,Ventilation contrôlé intubée
+1260,Oxygène 30%
+1290,Auscultation pulmonaire
+1320,Surveillance pression ballonnet
+1350,Manoeuvre Recrutement Alvéolaire
+1440,Pose sonde T°C
+1710,Auscultation pulmonaire
+1740,Surveillance points d'appui
+1890,SEVOFLURANE_continu
+2160,SUFENTANIL_bolus
+2220,Incision
+2250,Trocard sous-ombilical
+2310,Inflation pneumopéritoine
+2430,Auscultation pulmonaire
+2460,Manoeuvre Recrutement Alvéolaire
+2760,Dissection espace prépéritonéal
+3090,Dissection cordon spermatique
+3240,ATRACURIUM_bolus
+3330,Dissection cordon zone herniaire
+3630,SUFENTANIL_bolus
+4560,Mise en place prothèse
+6060,Déflation pneumopéritoine
+6240,Fermeture
+6600,Pansement
+6630,stop sevoflurane
+7200,Contrôle de décurarisation
+7320,Décurarusation
+7680,Mise en place du patient
